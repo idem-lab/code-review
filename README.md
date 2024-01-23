@@ -9,4 +9,4 @@ The goal of this repository is to provide a place for us in the [IDEM group](htt
 ## Minutes
 
 - [Minutes from 2024-01-15](https://github.com/idem-lab/code-review/blob/main/minutes/2024-01-15-minutes.md)
-
+- [Minutes from 2024-01-22](https://github.com/idem-lab/code-review/blob/main/minutes/2024-01-22-minutes.md)
